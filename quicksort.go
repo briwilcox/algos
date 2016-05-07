@@ -51,13 +51,13 @@ func main() {
 	fmt.Println("Unsorted: ")
 	fmt.Println(a)
 	quicksort(a, 0, len(a)-1)
-	fmt.Println("Sorted: ")
+	fmt.Println("Sorted via Quicksort: ")
 	fmt.Println(a)
 
 	b := []int{0, 9, 3, 5, 4, 1, 6, 7, 8, 2}
 	fmt.Println("Unsorted: ")
 	fmt.Println(b)
 	quicksort(b, 0, len(b)-1)
-	fmt.Println("Sorted: ")
+	fmt.Println("Sorted via Quicksort: ")
 	fmt.Println(b)
 }
