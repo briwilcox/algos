@@ -28,22 +28,30 @@ Binary Search:
 
 Quicksort
 ---------------------
- Unsorted: 
+
+Unsorted: 
 * [9 8 7 6 5 4 3 2 1 0]
- Sorted via Quicksort: 
+
+Sorted via Quicksort: 
 * [0 1 2 3 4 5 6 7 8 9]
- Unsorted: 
+
+Unsorted: 
 * [0 9 3 5 4 1 6 7 8 2]
- Sorted via Quicksort: 
+
+Sorted via Quicksort: 
 * [0 1 2 3 4 5 6 7 8 9]
 
 Mergesort
 ---------------------
- Unsorted: 
+
+Unsorted: 
 * [9 8 7 6 5 4 3 2 1 0]
- Sorted via MergeSort: 
+
+Sorted via MergeSort: 
 * [0 1 2 3 4 5 6 7 8 9]
- Unsorted: 
+
+Unsorted: 
 * [0 9 3 5 4 1 6 7 8 2]
- Sorted via MergeSort: 
+
+Sorted via MergeSort: 
 * [0 1 2 3 4 5 6 7 8 9]
