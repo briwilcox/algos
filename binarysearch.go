@@ -23,7 +23,7 @@ func binSearch(searchspace []int, key int) int {
 	}
 }
 
-func searchTest(a []int, key int){
+func printSearchResult(a []int, key int){
 	fmt.Println("Binary Search:") 
 	index := binSearch(a, key) 
 	if index == -1 {
@@ -38,9 +38,9 @@ func searchTest(a []int, key int){
 
 func main() {
 	a := []int{0, 1, 2, 3, 4, 5, 6, 7, 8, 9} 
-	searchTest(a, 9)
-	searchTest(a, 2)
-	searchTest(a, 15)
-	searchTest(a, 5)
-	searchTest(a, 10)
+	printSearchResult(a, 9)
+	printSearchResult(a, 2)
+	printSearchResult(a, 15)
+	printSearchResult(a, 5)
+	printSearchResult(a, 10)
 }
