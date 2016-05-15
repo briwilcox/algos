@@ -1,6 +1,7 @@
 .vscode/
 .vscode/*
 binarysearch
+bubblesort
 quicksort
 mergesort
 selectionsort
