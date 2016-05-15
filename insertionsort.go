@@ -5,15 +5,15 @@ import (
 )
 
 func insertionSort(toSort []int) {
-      for i := 1; i < len(toSort); i++ {
-            newValue := toSort[i];
-            j := i;
-            for j > 0 && toSort[j - 1] > newValue {
-                  toSort[j] = toSort[j - 1];
-                  j--;
-            }
-            toSort[j] = newValue;
-      }
+	for i := 1; i < len(toSort); i++ {
+		newValue := toSort[i]
+		j := i
+		for j > 0 && toSort[j-1] > newValue {
+			toSort[j] = toSort[j-1]
+			j--
+		}
+		toSort[j] = newValue
+	}
 }
 
 func main() {
