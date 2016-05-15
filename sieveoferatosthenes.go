@@ -48,5 +48,5 @@ func sieveOfEratosthenes(upperBound int) {
 }
 
 func main() {
-	sieveOfEratosthenes(25)
+	sieveOfEratosthenes(120)
 }
