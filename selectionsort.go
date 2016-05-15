@@ -4,11 +4,11 @@ import (
 	"fmt"
 )
 
-func selectionSort(toSort []int){
+func selectionSort(toSort []int) {
 	n := len(toSort)
-	for j:= 0; j < n-1; j++ {
+	for j := 0; j < n-1; j++ {
 		iMin := j
-		for i := j+1; i < n; i++ {
+		for i := j + 1; i < n; i++ {
 			if toSort[i] < toSort[iMin] {
 				iMin = i
 			}

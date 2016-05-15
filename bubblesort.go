@@ -4,20 +4,18 @@ import (
 	"fmt"
 )
 
-
-func bubbleSort(toSort []int){
-   n := len(toSort)
-   for a:=0; a< ( n - 1 ); a++ {
-       for b:=0; b < ( n - a - 1); b++ {
-           if (toSort[b] > toSort[b+1]){
-               temp := toSort[b]
-               toSort[b] = toSort[b+1]
-               toSort[b+1] = temp
-           }
-       }
-    }
+func bubbleSort(toSort []int) {
+	n := len(toSort)
+	for a := 0; a < (n - 1); a++ {
+		for b := 0; b < (n - a - 1); b++ {
+			if toSort[b] > toSort[b+1] {
+				temp := toSort[b]
+				toSort[b] = toSort[b+1]
+				toSort[b+1] = temp
+			}
+		}
+	}
 }
-
 
 func main() {
 	a := []int{9, 8, 7, 6, 5, 4, 3, 2, 1, 0}
