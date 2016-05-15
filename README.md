@@ -42,6 +42,17 @@ Reviewing algorithms, learning go. Images from wikipedia.
 
 ![Sieve of Eratosthenes](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
 
+## Graphs
+
+### Trees
+
+#### Binary trees 
+
+Creation, insertion, searching, and simultaneously searching via go routines. Taken from golang.org
+
+![Binary Trees](https://upload.wikimedia.org/wikipedia/commons/b/bb/Binary_tree_traversion.svg)
+
+
 # Outputs
 
 ## Search
