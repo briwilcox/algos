@@ -1,5 +1,13 @@
 Reviewing algos, learning go
 
+Algorithms thus far:
+
+Binary search
+Bubble Sort
+Selection Sort
+Merge Sort
+Quick Sort
+
 Outputs
 ====================
 
