@@ -24,6 +24,11 @@ Reviewing algorithms, learning go. Images from wikipedia.
 
 ![Selection Sort](https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif)
 
+### Insertion Sorts
+* Insertion Sort
+
+![Insertion Sort](https://upload.wikimedia.org/wikipedia/commons/2/25/Insertion_sort_animation.gif)
+
 ### Merge Sorts
 * Merge Sort
 
