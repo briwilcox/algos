@@ -34,6 +34,7 @@ Reviewing algorithms, learning go. Images from wikipedia.
 * Naive Primality
 
 * Sieve of Eratosthenes
+
 ![Sieve of Eratosthenes](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
 
 # Outputs
