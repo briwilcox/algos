@@ -8,15 +8,20 @@ Search:
 Sorting:
 
 Exchange Sorts:
-* ![Bubble Sort](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
-* ![Odd - Even Sort](https://upload.wikimedia.org/wikipedia/commons/1/1b/Odd_even_sort_animation.gif)
-*![Quick Sort](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
+* Bubble Sort
+![Bubble Sort](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
+* Odd Even Sort
+![Odd - Even Sort](https://upload.wikimedia.org/wikipedia/commons/1/1b/Odd_even_sort_animation.gif)
+* Quicksort
+![Quick Sort](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
 Selection Sorts:
-* ![Selection Sort](https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif)
+* Selection Sort
+![Selection Sort](https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif)
 
 Merge Sorts:
-* ![Merge Sort](https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge_sort_animation2.gif)
+* Merge Sort
+![Merge Sort](https://en.wikipedia.org/wiki/Merge_sort#/media/File:Merge_sort_animation2.gif)
 
 Outputs
 ====================
