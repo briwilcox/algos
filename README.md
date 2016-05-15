@@ -29,6 +29,13 @@ Reviewing algorithms, learning go. Images from wikipedia.
 
 ![Merge Sort](https://upload.wikimedia.org/wikipedia/commons/c/c5/Merge_sort_animation2.gif)
 
+## Primality
+
+* Naive Primality
+
+* Sieve of Eratosthenes
+![Sieve of Eratosthenes](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
+
 # Outputs
 
 ## Search
