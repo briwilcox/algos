@@ -1,15 +1,15 @@
 Reviewing algos, learning go
 
-Algorithms thus far:
+# Algorithms
 
-Search:
+## Search
 * Binary Search
 
 ![Binary search](https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_search_into_array.png)
 
-Sorting:
+## Sorting
 
-Exchange Sorts:
+### Exchange Sorts:
 * Bubble Sort
 
 ![Bubble Sort](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
@@ -20,12 +20,12 @@ Exchange Sorts:
 
 ![Quick Sort](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
-Selection Sorts:
+### Selection Sorts
 * Selection Sort
 
 ![Selection Sort](https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif)
 
-Merge Sorts:
+### Merge Sorts
 * Merge Sort
 
 ![Merge Sort](https://upload.wikimedia.org/wikipedia/commons/c/c5/Merge_sort_animation2.gif)
